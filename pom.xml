@@ -9,10 +9,10 @@
         <relativePath/> <!-- lookup parent from repository -->
     </parent>
     <groupId>es.safareyes</groupId>
-    <artifactId>EDUCAGO</artifactId>
+    <artifactId>educago</artifactId>
     <version>0.0.1-SNAPSHOT</version>
-    <name>EDUCAGO</name>
-    <description>EDUCAGO</description>
+    <name>educago</name>
+    <description>educago</description>
     <url/>
     <licenses>
         <license/>

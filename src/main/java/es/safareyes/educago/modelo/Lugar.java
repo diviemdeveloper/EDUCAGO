@@ -4,7 +4,7 @@ import jakarta.persistence.*;
 import lombok.*;
 
 @Entity
-@Table(name = "categoria", schema = "educago")
+@Table(name = "lugar", schema = "educago")
 @Getter @Setter
 @EqualsAndHashCode
 @NoArgsConstructor
